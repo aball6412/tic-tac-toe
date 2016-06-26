@@ -1,0 +1,43 @@
+body {
+  margin: 50px;
+  background: #353A45;
+  color: #538FFF;
+}
+
+.gameboard {
+
+}
+
+
+
+.x, .o {
+  border:solid;
+  margin-bottom: 10px;
+  width: 100px;
+}
+
+.x {
+  margin-left: 143px;
+  margin-right: 10px;
+}
+
+.col-md-4 {
+  height: 150px;
+  width: 150px;
+}
+
+.box1, .box4, .box7 {
+  margin-left: 36px;
+  border-right: solid;
+}
+
+.box2, .box5, .box8 {
+  border-right: solid;
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6 {
+  border-bottom: solid;
+}
+
+
+
